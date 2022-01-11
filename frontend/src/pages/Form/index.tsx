@@ -5,8 +5,8 @@ function Form() {
   const movie = {
     id: 1,
     image:
-      "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
-    title: "The Witcher",
+      "https://adrenaline.com.br/uploads/2020/09/24/66129/spiderman-2.jpg",
+    title: "Spider-Man",
     count: 2,
     score: 4.5,
   };

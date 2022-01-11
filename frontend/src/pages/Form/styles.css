@@ -46,7 +46,9 @@
 }
 
 .dsmovie-btn {
-    background-color: var(--color-primary);
+    background: rgb(36,0,0);
+    background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(221,32,53,1) 59%, rgba(207,46,46,1) 86%);
+    border: none;
     font-size: 14px;
     font-weight: 700;
     height: 40px;
